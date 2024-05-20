@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetPageandSendEmail", "GetPageandSendEmail.csproj", "{051D3E2F-01F4-4EC0-B5E1-B65C1821871A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{051D3E2F-01F4-4EC0-B5E1-B65C1821871A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051D3E2F-01F4-4EC0-B5E1-B65C1821871A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051D3E2F-01F4-4EC0-B5E1-B65C1821871A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051D3E2F-01F4-4EC0-B5E1-B65C1821871A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878F1853-07A0-4FE8-B129-4DC75E0ADA0E}
+	EndGlobalSection
+EndGlobal
